@@ -1,4 +1,4 @@
-var kafka = require('kafka-node');
+var kafka = require('.');
 var Producer = kafka.Producer;
 var KeyedMessage = kafka.KeyedMessage;
 var Client = kafka.Client;
