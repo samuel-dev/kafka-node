@@ -63,6 +63,6 @@
     "url": "https://github.com/SOHU-Co/kafka-node.git"
   },
   "scripts": {
-    "start": "node test-kafka.js"
+    "start": "node helloworld.js"
   }
 }
